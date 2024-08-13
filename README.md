@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Thumbnail.png" width="450" alt="accessibility text">
+<img src="Thumbnail.png" width="450" alt="Thumbnail">
 </p>
 <h1 align="center"><ins>Preglustiana 🌐</ins></h1>
 <p>Le Preglustiana est une langue fictive, inventée par KFCgaming. 👤</p>
