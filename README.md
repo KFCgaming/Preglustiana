@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"><ins>Preglustiana 🌐</ins></h1>
 <p>Le Preglustiana est une langue fictive, inventée par KFCgaming. 👤</p>
-<p>Elle a commencé à être crée le 14 Juillet 2024. 📆</p><p>Elle forme un mélange du Français, de l'Anglais et de l'Espagnol. D'ailleur, l'accent donné à cette langue est l'accent Espagnol. 🪇</p><p>Cependant, la traduction de la langue du Français au Preglustiana s'est fait mot par mot. 📜</p><p>Cette langue est pour l'instant construite par une seule personne mais pourrait finir par être collaborative. 👥</p>
+<p>Elle a commencé à être crée le 14 Juillet 2024. 📆</p><p>Elle forme un mélange du Français, de l'Anglais et de l'Espagnol. D'ailleur, l'accent donné à cette langue est l'accent Espagnol. 🪇</p><p>Cependant, la traduction de la langue du Français au Preglustiana s'est fait mot par mot. 📜</in></p><p>Il se pourrait donc qu'un vrai dictionnaire fait son apparition pour bien traduire les mots et non mot par mot. 📖</p><p>Cette langue est pour l'instant construite par une seule personne mais pourrait finir par être collaborative. 👥</p>
 <br>
 <h2>Qu'est ce <i>repository</i> ? 🤔</h2>
 <p>Ce <i>repository</i> a été conçu initialement pour pouvoir mettre tout utilisateur à la même version de la langue. ⬆️</p><p>Mais, cette fonction est donc devenue un <i>repository</i> pour pouvoir tester cette langue. ✅</p><p>Pour l'instant, vous ne pouvez uniquement utilisé cette langue grâce à un programme en Python. 📥</p><p> Dans un future très proche, j'envisagerai de faire une version HTML afin que quiconque peut l'utilisé. 🤗</p>
